@@ -5,7 +5,7 @@
 # description: attachment_watcher.py daemon
 # processname: attachment_watcher.py
 
-DAEMON_PATH="/srv/smartertravel/scripts/"
+DAEMON_PATH="YOUR_DAEMON_PATH"
 
 DAEMON=attachment_watcher.py
 
